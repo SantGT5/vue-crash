@@ -4,7 +4,7 @@
       "id": 1,
       "text": "Doctor Appointment",
       "day": "March 1st at 2:30pm",
-      "reminder": false
+      "reminder": true
     },
     {
       "id": 2,
@@ -17,6 +17,12 @@
       "text": "Food Shopping",
       "day": "March 3rd at 11:00am",
       "reminder": true
+    },
+    {
+      "text": "asdads",
+      "day": "asd",
+      "reminder": true,
+      "id": 5
     }
   ]
 }
